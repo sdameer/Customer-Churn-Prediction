@@ -4,9 +4,7 @@
 The **Customer Churn Prediction App** is a Streamlit-based web application that predicts whether a customer is likely to churn based on input data. This tool provides insights for businesses to take proactive measures to retain customers, leveraging machine learning models trained on customer data.
 
 ## Features
-- ** your **: Enter your data 
 - **Predict Customer Churn**: Predict churn probabilities for individual customers.
-- **Download Results**: Save the predictions as a CSV file for further analysis.
 
 ## Project Highlights
 - Built using Python and deployed with Streamlit.
