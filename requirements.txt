@@ -1,3 +1,9 @@
 streamlit==1.25.0
 numpy>=1.25.0
 scikit-learn==1.3.1
+streamlit
+pillow
+numpy
+pandas
+matplotlib
+scikit-learn
