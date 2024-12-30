@@ -43,7 +43,7 @@ The **Customer Churn Prediction App** is a Streamlit-based web application that 
 ```
 customer-churn-prediction/
 ├── app.py               # Main application script
-├── requirements.txt     # Python dependencies            # Trained machine learning models
+├── requirements.txt     # Python dependencies      
 ├── csv/                 # csv files
 └── README.md            # Project documentation
 ```
