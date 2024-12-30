@@ -31,6 +31,10 @@ The **Customer Churn Prediction App** is a Streamlit-based web application that 
    ```bash
    streamlit run app.py
    ```
+   
+## video 
+https://github.com/user-attachments/assets/3283f505-bbfb-4608-99ba-937216e4c4df
+
 
 ## Usage
 1. Launch the app locally using the steps above or access the deployed version at [click-here](https://customer-churn-sdameer01.streamlit.app)
