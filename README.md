@@ -33,7 +33,7 @@ The **Customer Churn Prediction App** is a Streamlit-based web application that 
    ```
 
 ## Usage
-1. Launch the app locally using the steps above or access the deployed version at [click-here](https://customer-churn-sdameer01streamlit.app)
+1. Launch the app locally using the steps above or access the deployed version at [click-here](https://customer-churn-sdameer01.streamlit.app)
 2. Enter your data
 3. Click on the "Predict" button to view the churn predictions.
 
@@ -66,5 +66,5 @@ For questions or suggestions, feel free to reach out:
 ---
 Start predicting customer churn today with the **Customer Churn Prediction App**!
 
-link : [click-here](https://customer-churn-sdameer01streamlit.app)
+link : [click-here](https://customer-churn-sdameer01.streamlit.app)
 
