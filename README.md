@@ -33,7 +33,11 @@ The **Customer Churn Prediction App** is a Streamlit-based web application that 
    ```
    
 ## video 
-https://github.com/user-attachments/assets/3283f505-bbfb-4608-99ba-937216e4c4df
+
+https://github.com/user-attachments/assets/4a7a3ba6-ce6b-4dae-a927-18a8412e417a
+
+
+
 
 
 ## Usage
