@@ -1,7 +1,6 @@
-
-pillow
+pillow
 pandas
-matplotlib==3.10.0
-scikit-learn==1.36.0
-numpy==1.23.0
-streamlit==1.36.0
+matplotlib
+scikit-learn
+numpy
+streamlit
