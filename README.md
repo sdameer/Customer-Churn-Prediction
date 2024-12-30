@@ -20,8 +20,8 @@ The **Customer Churn Prediction App** is a Streamlit-based web application that 
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction
-   cd customer-churn-prediction
+   git clone https://github.com/sdameer/Customer-Churn-Prediction
+   cd Customer-Churn-Prediction
    ```
 2. Install the dependencies:
    ```bash
